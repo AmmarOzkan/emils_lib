@@ -1,5 +1,10 @@
-# emils_lib 0.1.9
+# emils_lib 0.2.0
 Çoğu repomda bulunan ve genel kullanım için bir c++ kütüphanesi
+
+## Alt Kütüphaneler:
+### el_serial
+### AdvancedNumber
+
 #define ile tanımlanmış kısayollar:
 ### LOG(x)
 x'i ekrana yazdırır ve bi alt satıra geçer	
