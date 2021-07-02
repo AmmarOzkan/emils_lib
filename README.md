@@ -2,8 +2,8 @@
 Çoğu repomda bulunan ve genel kullanım için bir c++ kütüphanesi
 
 ## Alt Kütüphaneler:
-### el_serial
-### AdvancedNumber
+- el_serial
+- AdvancedNumber
 
 #define ile tanımlanmış kısayollar:
 ### LOG(x)
